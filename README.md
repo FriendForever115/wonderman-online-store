@@ -37,7 +37,7 @@ For running the application you need:
 
 ## How to run
 
-1. Execute command `git clone https://github.com/Ilvondir/wonderman-online-store`.
+1. Execute command `git clone https://github.com/FriendForever115/wonderman-online-store`.
 2. Create `wonderman_store` database.
 3. Open `wonderman-backend/start.bat` file.
 4. Open `wonderman-frontend/start.bat` file.
